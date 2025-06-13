@@ -1,11 +1,6 @@
 fastapi
 uvicorn[standard]
-openai
-requests
-beautifulsoup4
-tiktoken
 sentence-transformers
-scikit-learn
-numpy
-python-multipart
-pydantic
+qdrant-client
+httpx
+python-dotenv
